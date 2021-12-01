@@ -31,7 +31,9 @@ def circulate():
 ```
 
 ## Output:
+```
 ![github logo](img.png)
+```
 
 ## Result:
 then circulating the values completed successfully
