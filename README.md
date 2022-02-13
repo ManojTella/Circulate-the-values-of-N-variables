@@ -33,4 +33,4 @@ def circulate():
 ![github logo](img.png)
 
 ## Result:
-Hence circulating the values of N-variables completed successfully.
+Hence circulating the values of N-variables excuted successfully.
