@@ -13,7 +13,6 @@ Assign the list.
 Get the value from the user for the number of rotation.
 ### Step 4: 
 Using the slicing concept rotate the list.
-
 ### Step 5: 
 Display the output of the program.
 ### Step 6: 
@@ -34,4 +33,4 @@ def circulate():
 ![github logo](img.png)
 
 ## Result:
-Then circulating the values completed successfully
+Hence circulating the values of N-variables completed successfully.
